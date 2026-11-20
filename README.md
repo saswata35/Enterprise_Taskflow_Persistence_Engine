@@ -112,4 +112,3 @@ server.port=8086
 
 * **Saswata Banerjee**
 * GitHub: [@saswata35/Java_Based_Enterprise_Taskflow_Persistence_Engine.git](https://github.com/saswata35/Java_Based_Enterprise_Taskflow_Persistence_Engine.git)
-* HTTP Link: [http://localhost:8086/](http://localhost:8086/)
